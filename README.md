@@ -62,12 +62,5 @@ Passionate cybersecurity professional with expertise in AI/ML solutions, cloud i
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khemirinour&layout=compact&theme=radical&langs_count=8)](https://github.com/khemirinour)
-
-[![Nour's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=khemirinour&theme=react-dark&area=true&hide_border=true)](https://github.com/khemirinour)
 
 </div>

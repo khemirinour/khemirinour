@@ -12,9 +12,12 @@
 
 
 ---
+<center>
+💻 Full Stack Developer | | ☁️ AI/ML Engineer
 
-## 💻 Full Stack Developer | | ☁️ AI/ML Engineer
-
+  
+</center>
+ 
 **🎓 Education**  
 Licence in Computer Science | Master's in Network Systems & Cloud Computing | Master's in Cybersecurity & Smart Industry  
 **🏛️** Faculty of Sciences of Sfax, Tunisia  

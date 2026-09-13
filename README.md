@@ -10,13 +10,13 @@
 
 </div>
 
-
 ---
-<center>
- ## 💻 Full Stack Developer | | ☁️ AI/ML Engineer
 
-  
-</center>
+<div  align="center"> <h3>
+ 💻 Full Stack Developer | | ☁️ AI/ML Engineer </h3> 
+</div>
+
+ --- 
  
 **🎓 Education**  
 Licence in Computer Science | Master's in Network Systems & Cloud Computing | Master's in Cybersecurity & Smart Industry  

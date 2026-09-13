@@ -13,7 +13,7 @@
 
 ---
 <center>
-💻 Full Stack Developer | | ☁️ AI/ML Engineer
+ ## 💻 Full Stack Developer | | ☁️ AI/ML Engineer
 
   
 </center>
